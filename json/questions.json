@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Why do we use the <br> element?",
+    "answer_1": "To make text bold",
+    "answer_2": "To make text italic",
+    "answer_3": "To add a break line",
+    "answer_4": "To add a horizontal line",
+    "right_answer": "To add a break line"
+  },
+  {
+    "title": "Does the <img> element have an 'href' attribute?",
+    "answer_1": "Yes",
+    "answer_2": "No, it is for another tag <a>",
+    "answer_3": "All elements have this attribute",
+    "answer_4": "1 & 3 are correct",
+    "right_answer": "No, it is for another tag <a>"
+  },
+  {
+    "title": "How do we make text bold in HTML?",
+    "answer_1": "Putting it inside <b> tag",
+    "answer_2": "Putting it inside <strong> tag",
+    "answer_3": "Customizing it with font-weight in CSS",
+    "answer_4": "All answers are correct",
+    "right_answer": "All answers are correct"
+  },
+  {
+    "title": "What is the purpose of the <title> tag?",
+    "answer_1": "To add a title to the body of the document",
+    "answer_2": "To specify a title for the document",
+    "answer_3": "To create a header",
+    "answer_4": "To include meta information",
+    "right_answer": "To specify a title for the document"
+  },
+  {
+    "title": "Which tag is used to create a hyperlink in HTML?",
+    "answer_1": "<a>",
+    "answer_2": "<link>",
+    "answer_3": "<href>",
+    "answer_4": "<hyperlink>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hyper Text Markup Language",
+    "answer_2": "Home Tool Markup Language",
+    "answer_3": "Hyperlinks and Text Markup Language",
+    "answer_4": "Hyper Tool Markup Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which HTML tag is used to define an internal style sheet?",
+    "answer_1": "<css>",
+    "answer_2": "<script>",
+    "answer_3": "<style>",
+    "answer_4": "<link>",
+    "right_answer": "<style>"
+  },
+  {
+    "title": "How can you make a numbered list?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<dl>",
+    "answer_4": "<list>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "Which HTML attribute is used to define inline styles?",
+    "answer_1": "style",
+    "answer_2": "class",
+    "answer_3": "font",
+    "answer_4": "styles",
+    "right_answer": "style"
+  },
+  {
+    "title": "How can you open a link in a new tab/browser window?",
+    "answer_1": "<a href='url' target='_blank'>",
+    "answer_2": "<a href='url' target='_new'>",
+    "answer_3": "<a href='url' target='new'>",
+    "answer_4": "<a href='url' target='blank'>",
+    "right_answer": "<a href='url' target='_blank'>"
+  }
+]
